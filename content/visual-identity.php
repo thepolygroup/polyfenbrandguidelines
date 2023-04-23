@@ -19,12 +19,16 @@
 
   <h4 class="heading-3">3.2.1. Primary Selection</h4>
   <p>Biotif is the preferred typeface for use in textual headings, buttons, and captions of all brand communications.</p>
+  <a href="https://www.myfonts.com/fonts/degarism-studio/biotif/" target="_blank"><button>Preview Biotif</button></a>
   <p>Freight Text is the preferred typeface for use in body text of all brand communications.</p>
+  <a href="https://www.myfonts.com/fonts/garagefonts/freight-text-pro/" target="_blank"><button>Preview Freight Text</button></a>
 
   <h4 class="heading-3">3.2.2. Secondary Selection</h4>
 
 
   <h4 class="heading-3">3.2.3. Tertiary Selection</h4>
+  <p>Verdana is the Teriary or "System" typeface —available in essentially every computer— selected for use in all text when neither Lato nor Source Serif are available. Since email clients accept only system fonts, for instance, all emails should be set in Verdana.</p>
+  <a href="https://www.fonts.com/font/microsoft-corporation/verdana" target="_blank"><button>Preview Verdana</button></a>
 
 
 </section>

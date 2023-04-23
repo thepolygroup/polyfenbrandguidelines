@@ -43,6 +43,7 @@
   <hr>
 
   <h3 id="moodboard" class="heading-2">2.5. Moodboard</h3>
+  <img src="imgs/moodboard.png" alt="Moodboard">
   <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 
   <hr>
