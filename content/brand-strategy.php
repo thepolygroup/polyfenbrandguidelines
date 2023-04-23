@@ -57,13 +57,13 @@
   <p>In the context of branding, our name represents all the diverse ideas that we explore during the creative process which result in a system of brand elements.</p>
 
   <h4 id="name-architecture" class="heading-3">2.6.2. Name Architecture</h4>
-  <p>Primary Brand Name: Polyfen<br>
+  <p><strong>Primary Brand Name:</strong> Polyfen<br>
   Preferred name alternative.</p>
-  <p>Fallback Brand Name: Polyfen Studio<br>
+  <p><strong>Fallback Brand Name:</strong> Polyfen Studio<br>
   Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
-  <p>Business Name: The Poly Group LLC<br>
+  <p><strong>Business Name:</strong> The Poly Group LLC<br>
   Preferred name for use on all official business documentation.</p>
-  <p>Diminutive Name: Poly<br>
+  <p><strong>Diminutive Name:</strong> Poly<br>
   Casual diminutive alternative for use only within the company.</p>
 
   <hr>
