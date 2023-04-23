@@ -11,7 +11,6 @@
     <li>Professional</li>
     <li>Straight-forward</li>
     <li>Light-hearted</li>
-    <li>Simple</li>
     <li>Reliable</li>
     <li>Organised</li>
     <li>Positive</li>
@@ -26,16 +25,15 @@
     <li>Creative</li>
     <li>Playful</li>
     <li>User-friendly</li>
-    <li>Straight-forward</li>
     <li>Clean</li>
     <li>Distinctive</li>
-    <li>Business-focused</li>
+    <li>Business-oriented</li>
   </ul>
 
   <hr>
 
   <h3 class="heading-2">2.4. Creative Concept</h3>
-  <h4>The midpoint between business and creativity</h4>
+  <h4>The link between business and creativity</h4>
   <p>This concise sentence is the unifying concept that guides the branding process. Unlike a slogan, this phrase is not necessarily meant for use in public communications, but it serves as a mantra when creating the logo, choosing a typeface, designing business cards, copywriting the website’s content, or developing any other touchpoint between the brand and the audience. The creative concept ensures that all elements of the brand will consistently convey a reliable and professional message.</p>
   <p>The core concept of our identity is that we interpret our client's business and translate it into a creative expression that speaks to the client's audience.</p>
   <p>This creative concept should be reflected in our brand and our visual identity.</p>
