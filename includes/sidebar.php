@@ -30,7 +30,7 @@
       <ol>
           <li><a href="#ideogram">Ideogram</a></li>
           <li><a href="#emblem">Emblem</a></li>
-          <li><a href="#sub-brands">Sub-brands</a></li>
+          <li><a href="#wordmark">Wordmark</a></li>
       </ol>
       <li><a href="#typeface-selection">Typeface Selection</a></li>
       <ol>
