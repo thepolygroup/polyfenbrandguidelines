@@ -72,7 +72,7 @@ i#close {
 i#close-version {
   font-weight: 900;
   position: fixed;
-  right: 30px;
+  right: 12px;
   top: 10px;
   cursor: pointer;
 }
@@ -127,6 +127,49 @@ div#sidebar ol li {
 }
 
 /*///////////// SIDEBAR end /////////////*/
+
+/*///////////// VERSION start /////////////*/
+
+div#version {
+  z-index: 99999;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+
+div#version-closed {
+  opacity: 0.5;
+  cursor: pointer;
+  font-weight: 600;
+  background: white;
+  padding: 5px 10px 2px;
+  border-radius: 2px;
+}
+
+div#version-closed:hover {
+  opacity: 1;
+}
+
+div#version-open {
+  height: 100%;
+  background: #FFFFFF;
+  width: 270px;
+  position: fixed;
+  top: 0px;
+  right: 0;
+  border-left: 1px solid #e8e8e8;
+  z-index: 9999;
+  overflow: scroll;
+  padding-bottom: 200px;
+  padding: 20px;
+  padding-top: 40px;
+}
+
+div#version-open hr {
+  margin: 2rem -20px;
+}
+
+/*///////////// VERSION end /////////////*/
 
 section#cover {
   background: #7537f8;

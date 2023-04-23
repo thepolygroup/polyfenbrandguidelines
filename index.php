@@ -14,7 +14,7 @@
       <?php include 'includes/sidebar.php' ;?>
     <!-- INCLUDE SIDEBAR.PHP end -->
     <!-- INCLUDE VERSION.PHP start -->
-      <?php /* include 'includes/version.php' */ ;?>
+      <?php include 'includes/version.php' ;?>
     <!-- INCLUDE VERSION.PHP end -->
 
     <section id="cover">
