@@ -59,6 +59,49 @@ nav a {
 
 /*///////////// TYPOGRAPHY END /////////////*/
 
+i#close {
+  font-weight: 900;
+  position: fixed;
+  left: 282px;
+  top: 10px;
+  cursor: pointer;
+}
+
+i#close-version {
+  font-weight: 900;
+  position: fixed;
+  right: 30px;
+  top: 10px;
+  cursor: pointer;
+}
+
+#menu {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  cursor: pointer;
+  background: white;
+  z-index: 9999;
+  height: 35px;
+  width: 45px;
+  border-radius: 4px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#menu i {
+  font-weight: 900;
+  font-size: 1.5rem !important;
+}
+
+#menu, i#close, i#close-version {
+  opacity: 0.3;
+}
+
+#menu:hover, i#close:hover, i#close-version:hover {
+  opacity: 1;
+}
+
 div#sidebar {
   height: 100%;
   background: #FFFFFF;
@@ -74,6 +117,11 @@ div#sidebar {
 
 div#sidebar ol {
   margin-left: 40px;
+}
+
+div#sidebar ol li {
+  font-size: 18px;
+  font-variant-numeric: tabular-nums; /* <numeric-spacing-values> */
 }
 
 section#cover {

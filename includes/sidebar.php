@@ -3,7 +3,7 @@
 </div>
 <div id="sidebar">
   <a href="#top">
-   <img src="imgs/polyfen.svg" height="40px" width="auto" style="top:35px; left:20px; position:absolute;" alt="Polyfen">
+   <img src="imgs/polyfen.svg" height="40px" width="auto" style="top:30px; left:20px; position:absolute;" alt="Polyfen">
   </a>
   <i class="fas fa-times" id="close" onclick="document.getElementById('sidebar').className='d-none';document.getElementById('menu').className=''"></i>
   <hr style="margin:100px 0 40px !important;">
