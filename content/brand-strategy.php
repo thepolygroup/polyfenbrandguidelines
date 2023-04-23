@@ -7,7 +7,7 @@
   <hr>
 
   <h3 class="heading-2">2.2. Tone</h3>
-  <ul>
+  <ul class="hanging-list">
     <li>Professional</li>
     <li>Straight-forward</li>
     <li>Light-hearted</li>
@@ -21,7 +21,7 @@
   <hr>
 
   <h3 class="heading-2">2.3. Keywords</h3>
-  <ul>
+  <ul class="hanging-list">
     <li>Radical</li>
     <li>Creative</li>
     <li>Playful</li>
