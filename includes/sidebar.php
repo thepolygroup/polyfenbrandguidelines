@@ -6,7 +6,7 @@
    <img src="imgs/polyfen.svg" height="40px" width="auto" style="top:30px; left:20px; position:absolute;" alt="Polyfen">
   </a>
   <i class="fas fa-times" id="close" onclick="document.getElementById('sidebar').className='d-none';document.getElementById('menu').className=''"></i>
-  <hr style="margin:100px 0 40px !important;">
+  <hr style="margin:100px 0 20px !important;">
   <ol>
     <li><a href="#market-research">Market Research</a></li>
       <ol style="padding-bottom:20px;border-bottom:1px solid #e8e8e8; margin-bottom:20px;">
