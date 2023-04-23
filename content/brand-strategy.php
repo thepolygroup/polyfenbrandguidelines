@@ -24,6 +24,7 @@
     <li>Radical</li>
     <li>Creative</li>
     <li>Playful</li>
+    <li>Innovative</li>
     <li>User-friendly</li>
     <li>Clean</li>
     <li>Distinctive</li>
