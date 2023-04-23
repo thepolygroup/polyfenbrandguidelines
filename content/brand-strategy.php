@@ -1,12 +1,12 @@
 <section id="brand-strategy">
   <h2 class="heading-1">2. Brand Strategy</h2>
 
-  <h3 class="heading-2">2.1. Voice</h3>
+  <h3 id="voice" class="heading-2">2.1. Voice</h3>
   <p>The content expressed by our brand must be informative and engaging, proactive in the design community.</p>
 
   <hr>
 
-  <h3 class="heading-2">2.2. Tone</h3>
+  <h3 id="tone" class="heading-2">2.2. Tone</h3>
   <ul class="hanging-list">
     <li>Professional</li>
     <li>Straight-forward</li>
@@ -19,7 +19,7 @@
 
   <hr>
 
-  <h3 class="heading-2">2.3. Keywords</h3>
+  <h3 id="keywords" class="heading-2">2.3. Keywords</h3>
   <ul class="hanging-list">
     <li>Radical</li>
     <li>Creative</li>
@@ -32,7 +32,7 @@
 
   <hr>
 
-  <h3 class="heading-2">2.4. Creative Concept</h3>
+  <h3 id="creative-concept" class="heading-2">2.4. Creative Concept</h3>
   <div class="preview">
     <h4 class="heading-2">The link between<br>business &amp; creativity</h4>
   </div>
@@ -41,20 +41,20 @@
 
   <hr>
 
-  <h3 class="heading-2">2.5. Moodboard</h3>
+  <h3 id="moodboard" class="heading-2">2.5. Moodboard</h3>
   <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 
   <hr>
 
-  <h3 class="heading-2">2.6. Naming</h3>
+  <h3 id="naming" class="heading-2">2.6. Naming</h3>
 
   <hr>
 
-  <h3 class="heading-2">2.7. Brand Architecture</h3>
+  <h3 id="brand-architecture" class="heading-2">2.7. Brand Architecture</h3>
 
   <hr>
 
-  <h3 class="heading-2">2.8. Key Messages</h3>
+  <h3 id="key-messages" class="heading-2">2.8. Key Messages</h3>
 
 
 </section>
