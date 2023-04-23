@@ -1,4 +1,4 @@
-<article id="visual-identity">
-  <h2>3. Visual Identity</h2>
+<section id="visual-identity">
+  <h2 class="heading-1">3. Visual Identity</h2>
 
-</article>
+</section>

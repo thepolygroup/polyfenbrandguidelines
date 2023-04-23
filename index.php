@@ -5,33 +5,27 @@
   <?php include 'includes/head.php';?>
 <!-- INCLUDE HEAD.PHP end -->
 
-<body>
+<body class="light-mode">
 
     <!-- INCLUDE HEADER.PHP start -->
-      <?php include 'includes/header.php';?>
+      <?php /* include 'includes/header.php' */ ;?>
     <!-- INCLUDE HEADER.PHP end -->
     <!-- INCLUDE SIDEBAR.PHP start -->
-      <?php include 'includes/sidebar.php';?>
+      <?php /* include 'includes/sidebar.php' */ ;?>
     <!-- INCLUDE SIDEBAR.PHP end -->
     <!-- INCLUDE VERSION.PHP start -->
-      <?php include 'includes/version.php';?>
+      <?php /* include 'includes/version.php' */ ;?>
     <!-- INCLUDE VERSION.PHP end -->
 
     <section id="cover">
-      <div class="dp-container">
-        <div class="dp-rowflex">
-          <div class="col-sm-12 col-md-8 col-lg-7">
-            <h1 style="color:white;">Brand Guidelines</h1>
-          </div>
-        </div>
+      <div class="container">
+        <h1 class="title-1" style="color:white;">Brand Guidelines</h1>
       </div>
     </section>
 
-    <div class="dp-container" style="margin-top: 400px;">
-      <div class="dp-rowflex">
-        <div class="col-sm-12 col-md-8 col-lg-7">
+    <div class="container">
 
-        <section>
+        <section id="content-wrapper">
           <!-- INCLUDE HEADER.PHP start -->
             <?php include 'content/intro.php';?>
           <!-- INCLUDE HEADER.PHP end -->
@@ -54,8 +48,7 @@
           <hr>
         </section>
 
-      </div>
-    </div>
+
     </div>
 
 </body>
