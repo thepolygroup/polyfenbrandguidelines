@@ -50,6 +50,22 @@
 
   <h3 id="naming" class="heading-2">2.6. Naming</h3>
 
+  <h4 id="etymology" class="heading-3">2.6.1. Etymology</h4>
+  <p>"Polyfen" comes from an abstraction of the term “Polyphenic trait”.</p>
+  <p>A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
+  <p>The different morphology and color patterns on the shells of mollusks, for instance, are a polyphenic trait.</p>
+  <p>In the context of branding, our name represents all the diverse ideas that we explore during the creative process which result in a system of brand elements.</p>
+
+  <h4 id="name-architecture" class="heading-3">2.6.2. Name Architecture</h4>
+  <p>Primary Brand Name: Polyfen<br>
+  Preferred name alternative.</p>
+  <p>Fallback Brand Name: Polyfen Studio<br>
+  Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
+  <p>Business Name: The Poly Group LLC<br>
+  Preferred name for use on all official business documentation.</p>
+  <p>Diminutive Name: Poly<br>
+  Casual diminutive alternative for use only within the company.</p>
+
   <hr>
 
   <h3 id="brand-architecture" class="heading-2">2.7. Brand Architecture</h3>
