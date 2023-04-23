@@ -8,6 +8,10 @@
   color: #fff;
 }
 
+img {
+  border-radius: 4px;
+}
+
 /*///////////// TYPOGRAPHY START /////////////*/
 
 * {
@@ -32,6 +36,13 @@ p, p a, li, p strong, p span, li strong, th, td {
 
 th, td {
   text-align: left;
+  border: 1px solid gray;
+  margin: 0;
+  padding: 12px;
+}
+
+th {
+  background: #EEEEEE;
 }
 
 nav a {
