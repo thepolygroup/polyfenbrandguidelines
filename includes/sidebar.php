@@ -23,7 +23,6 @@
       <li><a href="#moodboard">Moodboard</a></li>
       <li><a href="#naming">Naming</a></li>
       <li><a href="#brand-architecture">Brand Architecture</a></li>
-      <li><a href="#user-personas">User Personas</a></li>
     </ol>
     <li><a href="#visual-identity">Visual Identity</a></li>
     <ol style="padding-bottom:20px;border-bottom:1px solid #e8e8e8; margin-bottom:20px;">
