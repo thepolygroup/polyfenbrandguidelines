@@ -197,6 +197,16 @@ section#cover {
   padding-bottom: 60px;
 }
 
+section#cover ::-moz-selection {
+  background: #070924;
+  color: #fff;
+}
+
+section#cover ::selection {
+  background: #070924;
+  color: #fff;
+}
+
 section#content-wrapper {
   padding-top: 80px;
   padding-bottom: 150px;
