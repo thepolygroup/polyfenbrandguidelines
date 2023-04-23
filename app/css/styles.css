@@ -1,3 +1,13 @@
+::-moz-selection {
+  background: #7537f8;
+  color: #fff;
+}
+
+::selection {
+  background: #7537f8;
+  color: #fff;
+}
+
 /*///////////// TYPOGRAPHY START /////////////*/
 
 * {
@@ -48,6 +58,23 @@ nav a {
 }
 
 /*///////////// TYPOGRAPHY END /////////////*/
+
+div#sidebar {
+  height: 100%;
+  background: #FFFFFF;
+  width: 310px;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  border-right: 1px solid #e8e8e8;
+  z-index: 9999;
+  overflow: scroll;
+  padding-bottom: 200px;
+}
+
+div#sidebar ol {
+  margin-left: 40px;
+}
 
 section#cover {
   background: #070924;

@@ -11,7 +11,7 @@
       <?php /* include 'includes/header.php' */ ;?>
     <!-- INCLUDE HEADER.PHP end -->
     <!-- INCLUDE SIDEBAR.PHP start -->
-      <?php /* include 'includes/sidebar.php' */ ;?>
+      <?php include 'includes/sidebar.php' ;?>
     <!-- INCLUDE SIDEBAR.PHP end -->
     <!-- INCLUDE VERSION.PHP start -->
       <?php /* include 'includes/version.php' */ ;?>
