@@ -14,10 +14,6 @@
       <td></td>
     </tr>
     <tr>
-      <th>Pseudonym</th>
-      <td></td>
-    </tr>
-    <tr>
       <th>Occupation</th>
       <td>Founder & CEO at [Business Management Consulting firm]</td>
     </tr>
@@ -58,10 +54,6 @@
       <td></td>
     </tr>
     <tr>
-      <th>Pseudonym</th>
-      <td></td>
-    </tr>
-    <tr>
       <th>Occupation</th>
       <td>CMO at [Fintech App]</td>
     </tr>
@@ -83,7 +75,7 @@
     </tr>
     <tr>
       <th>Solution</th>
-      <td></td>
+      <td>(Executive Consulting contract)</td>
     </tr>
     <tr>
       <th>How will they measure success?</th>
@@ -99,10 +91,6 @@
   <table>
     <tr>
       <th>Portrait</th>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Pseudonym</th>
       <td></td>
     </tr>
     <tr>
@@ -143,10 +131,6 @@
   <table>
     <tr>
       <th>Portrait</th>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Pseudonym</th>
       <td></td>
     </tr>
     <tr>
