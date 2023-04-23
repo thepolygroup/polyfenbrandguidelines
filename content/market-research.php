@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <th>Location</th>
-      <td>Houston, Texas</td>
+      <td>Houston, Texas, USA</td>
     </tr>
     <tr>
       <th>Company Size</th>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <th>Location</th>
-      <td>New York, New York</td>
+      <td>New York, New York, USA</td>
     </tr>
     <tr>
       <th>Company Size</th>
@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <th>Location</th>
-      <td>Miami, Florida</td>
+      <td>Miami, Florida, USA</td>
     </tr>
     <tr>
       <th>Company Size</th>
