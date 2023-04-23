@@ -24,6 +24,8 @@
   <a href="https://www.myfonts.com/fonts/garagefonts/freight-text-pro/" target="_blank"><button>Preview Freight Text</button></a>
 
   <h4 class="heading-3">3.2.2. Secondary Selection</h4>
+  <a href="https://fonts.google.com/specimen/Merriweather+Sans" target="_blank"><button>Preview Merriweather Sans</button></a>
+  <a href="https://fonts.google.com/specimen/Merriweather" target="_blank"><button>Preview Merriweather</button></a>
 
 
   <h4 class="heading-3">3.2.3. Tertiary Selection</h4>
