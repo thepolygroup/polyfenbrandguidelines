@@ -26,8 +26,12 @@
 	font-family: BiotifExtraBold;
 }
 
-p, p a, li, p strong, p span, li strong {
+p, p a, li, p strong, p span, li strong, th, td {
   font-family: 'freight-text-pro', serif;
+}
+
+th, td {
+  text-align: left;
 }
 
 nav a {
