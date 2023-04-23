@@ -1,13 +1,13 @@
 <section id="market-research">
   <h2 class="heading-1">1. Market Research</h2>
 
-  <h3 class="heading-2">1.1. Business Analysis</h3>
+  <h3 id="business-analysis" class="heading-2">1.1. Business Analysis</h3>
 
-  <h3 class="heading-2">1.2. Industry Analysis</h3>
+  <h3 id="industry-analysis" class="heading-2">1.2. Industry Analysis</h3>
 
-  <h3 class="heading-2">1.3. Target Analysis</h3>
+  <h3 id="target-analysis" class="heading-2">1.3. Target Analysis</h3>
 
-  <h4 class="heading-3">1.3.1. Project Peter</h4>
+  <h4 id="project-peter" class="heading-3">1.3.1. Project Peter</h4>
   <table>
     <tr>
       <th>Portrait</th>
@@ -51,7 +51,7 @@
     </tr>
   </table>
 
-  <h4 class="heading-3">1.3.2. Consulting Catherine</h4>
+  <h4 id="consulting-catherine" class="heading-3">1.3.2. Consulting Catherine</h4>
   <table>
     <tr>
       <th>Portrait</th>
@@ -95,7 +95,7 @@
     </tr>
   </table>
 
-  <h4 class="heading-3">1.3.3. Augmentation Andrew</h4>
+  <h4 id="augmentation-andrew" class="heading-3">1.3.3. Augmentation Andrew</h4>
   <table>
     <tr>
       <th>Portrait</th>
@@ -139,7 +139,7 @@
     </tr>
   </table>
 
-  <h4 class="heading-3">1.3.4. Follower Fred</h4>
+  <h4 id="follower-felicia" class="heading-3">1.3.4. Follower Felicia</h4>
   <table>
     <tr>
       <th>Portrait</th>

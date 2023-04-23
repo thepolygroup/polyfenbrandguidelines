@@ -12,7 +12,13 @@
       <ol style="padding-bottom:20px;border-bottom:1px solid #e8e8e8; margin-bottom:20px;">
         <li><a href="#business-analysis">Business Analysis</a></li>
         <li><a href="#industry-analysis">Industry Analysis</a></li>
-        <li><a href="#target-public-analysis">Target Public Analysis</a></li>
+        <li><a href="#target-analysis">Target Analysis</a></li>
+        <ol>
+          <li><a href="#project-peter">Project Peter</a></li>
+          <li><a href="#consulting-catherine">Consulting Catherine</a></li>
+          <li><a href="#augmentation-andrew">Augmentation Andrew</a></li>
+          <li><a href="#follower-felicia">Follower Felicia</a></li>
+        </ol>
     </ol>
     <li><a href="#brand-strategy">Brand Strategy</a></li>
     <ol style="padding-bottom:20px;border-bottom:1px solid #e8e8e8; margin-bottom:20px;">
@@ -22,6 +28,10 @@
       <li><a href="#creative-concept">Creative Concept</a></li>
       <li><a href="#moodboard">Moodboard</a></li>
       <li><a href="#naming">Naming</a></li>
+      <ol>
+        <li><a href="#etymology">Etymology</a></li>
+        <li><a href="#name-architecture">Name Architecture</a></li>
+      </ol>
       <li><a href="#brand-architecture">Brand Architecture</a></li>
     </ol>
     <li><a href="#visual-identity">Visual Identity</a></li>
