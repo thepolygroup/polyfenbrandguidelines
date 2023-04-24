@@ -3,6 +3,32 @@
 
   <h3 id="business-analysis" class="heading-2">1.1. Business Analysis</h3>
 
+  <h4 id="overview" class="heading-3">1.1.1. Overview</h4>
+  <p>We're a full-service creative and development agency. We help businesses reach their customers with data-driven research and strategic storytelling.</p>
+
+  <h4 id="canvas-business-model" class="heading-3">1.1.2. Canvas Business Model</h4>
+  <img src="imgs/canvas-business-model.png" alt="Canvas Business Model">
+
+  <h4 id="services" class="heading-3">1.1.3. Services</h4>
+  <ul class="hanging-list">
+    <li>Market Research</li>
+    <li>Brand &amp; Marketing Strategy</li>
+    <li>Naming</li>
+    <li>Logo Design</li>
+    <li>Visual Identity</li>
+    <li>Packaging</li>
+    <li>UX/UI Design</li>
+    <li>Software Development</li>
+    <li>Pitch Decks &amp; Presentations</li>
+    <li>Social Media Marketing</li>
+    <li>Email Marketing</li>
+    <li>Landing Pages</li>
+    <li>Lead Generation</li>
+    <li>Sales Funnels</li>
+  </ul>
+
+  <h4 id="positioning" class="heading-3">1.1.4. Positioning</h4>
+
   <h3 id="industry-analysis" class="heading-2">1.2. Industry Analysis</h3>
 
   <h3 id="target-analysis" class="heading-2">1.3. Target Analysis</h3>
