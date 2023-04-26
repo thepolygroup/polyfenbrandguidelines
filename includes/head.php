@@ -26,7 +26,7 @@
   <meta name="theme-color" content="#7537f8">
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="https://polynucleus.com/styles.css" type="text/css">
+  <link rel="stylesheet" href="https://polynucleus.com/polynucleus.css" type="text/css">
   <link rel="stylesheet" href="app/css/styles.css" type="text/css">
 
   <!-- FONTS -->
