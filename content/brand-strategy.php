@@ -12,7 +12,7 @@
     <li>Straight-forward</li>
     <li>Light-hearted</li>
     <li>Reliable</li>
-    <li>Organised</li>
+    <li>Organized</li>
     <li>Positive</li>
     <li>No-Frills</li>
   </ul>
@@ -35,7 +35,7 @@
 
   <h3 id="creative-concept" class="heading-2">2.4. Creative Concept</h3>
   <div class="preview">
-    <h4 class="heading-3">The link between<br>business &amp; creativity</h4>
+    <h4 class="heading-3">Where Business & Creativity<br>come together</h4>
   </div>
   <p>Similar to the Keywords, but more expressive and distinctive, the Creative Concept is a word or phrase that represents the desired emotional response from the target public when interacting with the Brand.</p>
   <p>Unlike a Slogan, a Creative Concept is not necessarily developed for public use, although it can be used publicly. Its primary purpose is to be used internally as a mantra to guide the creative process when sketching a Logo, copywriting a slogan, designing an ad, or when developing any other type of Brand Communication. This ensures that all elements of the Brand will convey a consistent message.</p>
