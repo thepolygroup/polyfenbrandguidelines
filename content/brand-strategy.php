@@ -49,6 +49,7 @@
   <hr>
   <section id="naming">
     <h3 class="heading-2">2.6. Naming</h3>
+  </section>
     <section id="etymology">
       <h4 class="heading-3">2.6.1. Etymology</h4>
       <p>"Polyfen" comes from an abstraction of the term “Polyphenic trait”.</p>
@@ -67,12 +68,12 @@
       <p><strong>Diminutive Name:</strong> Poly<br>
       Casual diminutive alternative for use only within the company.</p>
     </section>
-  </section>
-  <hr>
+  
+  <br>
   <section id="brand-architecture">
     <h3 class="heading-2">2.7. Brand Architecture</h3>
   </section>
   <hr>
   <h3 class="heading-2" id="key-messages">2.8. Key Messages</h3>
-
+  
 </section>

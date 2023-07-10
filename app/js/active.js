@@ -17,7 +17,7 @@ const observer = new IntersectionObserver((entries) => {
 		}
 	});
 }, {
-	threshold: 0.1}); // Ajusta el valor de umbral según tus necesidades
+	threshold: 0.3}); // Ajusta el valor de umbral según tus necesidades
   
 // Observa las secciones de la página
 const sections = document.querySelectorAll('section');
