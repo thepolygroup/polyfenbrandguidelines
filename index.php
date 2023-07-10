@@ -50,8 +50,7 @@
 
 
     </div>
-
+<!-- script ACTIVE -->
+<script src="app/js/active.js"></script>
 </body>
-
-
 </html>

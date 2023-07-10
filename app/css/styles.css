@@ -160,7 +160,14 @@ div#sidebar ol li {
   font-size: 18px;
   font-variant-numeric: tabular-nums; /* <numeric-spacing-values> */
 }
-
+/*// section li active //*/
+        /*div#sidebar ol li a.active, div#sidebar ol ol li a.active, div#sidebar ol ol ol li a.active {*/
+  div#sidebar a.active{
+  font-weight: 600;
+  /*// font-weight: bold;//*/
+  color: red;
+  background-color: cornflowerblue;
+}
 /*///////////// SIDEBAR end /////////////*/
 
 /*///////////// VERSION start /////////////*/
